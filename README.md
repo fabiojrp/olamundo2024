@@ -4,6 +4,9 @@ primeiros testes de github com a turma POOI 2024.2
 ~~~java
 class OlaMundo{
 
+    public static void main(String[] args){
+
+    }
     
 }
 ~~~
